@@ -1,10 +1,10 @@
-# Direct Download Link
-Please access to program from the following DDL. 
-https://drive.google.com/file/d/1TbESHGVpl9__-1pU71gp9ZOlaNggtcO8/view?usp=sharing
-
-# IOB tagger for Medical Incident Reports
+# IOB tagger for Incident Reports of Medication Errors
 
 This folder contains a script that allows it's users to sentencePiece tokenizing then IOB tagging Medical Incident Reports (MIR). SentencePiece tokenization can be found in [this GitHub repository](https://github.com/google/sentencepiece).
+
+## Direct Download Link
+Please access to program from the following DDL. 
+https://drive.google.com/file/d/1TbESHGVpl9__-1pU71gp9ZOlaNggtcO8/view?usp=sharing
 
 ## Files
 
